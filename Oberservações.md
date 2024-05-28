@@ -10,3 +10,5 @@ Uma Mensagem Arquivo Guardado com sucesso
 5 para Limpar basta Clicar em Limpar 
 6 para Sair basta Clicar em sair 
 
+O ficheiro Rar sao Os pacotes que a Minha aplicação Usa
+
